@@ -1,1 +1,5 @@
 # Sales_Data_Analysis
+
+Creating a visual dashboard using PowerBI to analyze and visualize the data to effectively present and analyze their sales and reach
+
+Find the dataset here- https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkhPSWZtR3B3T29XN2lhSnNzQkFCSnFOa0VyQXxBQ3Jtc0tuSDRpWkxvUXRiaGdSb1gwUjYzenRSM3dCWjdPZEYtLUtCMlpldWFDUjhLU3ZmemVKZ1h3aWR5Zl83cmt1R0NpMHY4b2hLSVVlWmt4dkxWNld4Y3VnTG4xak1PcEVzV2ZSVlUwTTQ0VENZOVA1bEVkQQ&q=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1uEoKdhV44zDg7xrzLrvp298dKyF8Mgzf%2Fedit%3Fusp%3Ddrive_link%26ouid%3D110443835961242012762%26rtpof%3Dtrue%26sd%3Dtrue&v=8AGxM9y-t6I
